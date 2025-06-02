@@ -1,6 +1,6 @@
-# First Game - Pygame Platformer
+# PyAdventure
 
-Welcome to **First Game**, a simple platformer game built using the Pygame library in Python. This game features a player character that can move left, right, and jump, as well as shoot projectiles at an enemy. The goal is to defeat the enemy while avoiding collisions to maintain your score.
+Welcome to **PyAdventure**, a simple platformer game built using the Pygame library in Python. This game features a player character that can move left, right, and jump, as well as shoot projectiles at an enemy. The goal is to defeat the enemy while avoiding collisions to maintain your score.
 
 ## Features
 
