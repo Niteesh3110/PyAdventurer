@@ -67,10 +67,6 @@ Welcome to **PyAdventure**, a simple platformer game built using the Pygame libr
 - Add a main menu and game over screen.
 - Improve graphics and sound effects.
 
-## Contributing
-
-Feel free to fork this repository and submit pull requests with your improvements. If you find any bugs or have suggestions, please open an issue.
-
 ## License
 
 This project is open-source and available under the MIT License. See the [LICENSE](LICENSE) file for more details.
